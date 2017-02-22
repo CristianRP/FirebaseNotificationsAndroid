@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628062329818",
+    "firebase_url": "https://marcaje-automatico.firebaseio.com",
+    "project_id": "marcaje-automatico",
+    "storage_bucket": "marcaje-automatico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628062329818:android:69dfec22ca711aa5",
+        "android_client_info": {
+          "package_name": "com.gruporosul.firenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628062329818-dm39jfr1lognarh2ga7rr6p2alpvfj44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gruporosul.firenotifications",
+            "certificate_hash": "3C1A4B64CC83A67F9F0D2B1ED98FD349CA8EB43F"
+          }
+        },
+        {
+          "client_id": "628062329818-qtom86hmuoodghq09gqhs973nlishqpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPZsQ6oo-SfsV9F9equRBMN8asqDuS9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628062329818-qtom86hmuoodghq09gqhs973nlishqpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
